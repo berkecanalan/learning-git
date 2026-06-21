@@ -1,3 +1,4 @@
 git commit deneme
 yapıldı
  sonra
+push ogrendim
