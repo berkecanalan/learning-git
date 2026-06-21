@@ -1,1 +1,3 @@
-Merhaba git
+git commit deneme
+yapıldı
+ sonra
