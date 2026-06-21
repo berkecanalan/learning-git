@@ -1,1 +1,1 @@
-proje amacı: git ogrenmek
+proje amac
