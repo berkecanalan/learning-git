@@ -1,1 +1,1 @@
-deneme 12345
+proje amacı: git ogrenmek
