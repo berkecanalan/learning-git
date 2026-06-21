@@ -1,2 +1,1 @@
-#git deneme
-amac ogrenmek
+deneme 12345
